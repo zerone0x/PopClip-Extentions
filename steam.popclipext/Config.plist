@@ -6,22 +6,22 @@
 	<array>
 		<dict>
 			<key>Image File</key>
-			<string>zlibray.png</string>
+			<string>Steam.png</string>
 			<key>Regular Expression</key>
 			<string>(?s)^.{1,}$</string>
 			<key>Title</key>
-			<string>Zlibray</string>
+			<string>Steam</string>
 			<key>URL</key>
-			<string>https://book4you.org/s/?q={popclip text}</string>
+			<string>https://store.steampowered.com/search/?term={popclip text}</string>
 		</dict>
 	</array>
 	<key>Apps</key>
 	<array>
 		<dict>
 			<key>Link</key>
-			<string>http://book4you.org/s/</string>
+			<string>https://store.steampowered.com/search/</string>
 			<key>Name</key>
-			<string>Zlibray</string>
+			<string>Steam</string>
 		</dict>
 	</array>
 	<key>Credits</key>
@@ -34,13 +34,13 @@
 		</dict>
 	</array>
 	<key>Extension Description</key>
-	<string>Search the web in zlibray.</string>
+	<string>Search the web in steam.</string>
 	<key>Extension Identifier</key>
-	<string>com.snowzjx.popclip.extension.Zlibray</string>
+	<string>com.snowzjx.popclip.extension.Steam</string>
 	<key>Extension Image File</key>
-	<string>zlibray.png</string>
+	<string>Steam.png</string>
 	<key>Extension Name</key>
-	<string>Zlibray Search</string>
+	<string>Steam Search</string>
 	<key>Version</key>
 	<integer>1</integer>
 </dict>

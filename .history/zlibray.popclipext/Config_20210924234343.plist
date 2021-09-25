@@ -34,7 +34,7 @@
 		</dict>
 	</array>
 	<key>Extension Description</key>
-	<string>Search the web in zlibray.</string>
+	<string>Search the web in zhihu.</string>
 	<key>Extension Identifier</key>
 	<string>com.snowzjx.popclip.extension.Zlibray</string>
 	<key>Extension Image File</key>
@@ -42,6 +42,6 @@
 	<key>Extension Name</key>
 	<string>Zlibray Search</string>
 	<key>Version</key>
-	<integer>1</integer>
+	<integer>2</integer>
 </dict>
 </plist>
