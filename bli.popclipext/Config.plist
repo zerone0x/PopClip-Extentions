@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>bli.png</string>
+			<key>Regular Expression</key>
+			<string>(?s)^.{1,}$</string>
+			<key>Title</key>
+			<string>bli</string>
+			<key>URL</key>
+			<string>http://search.bilibili.com/all?keyword={popclip text}</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>http://search.bilibili.com/</string>
+			<key>Name</key>
+			<string>bli</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>v@gmail.com</string>
+			<key>Name</key>
+			<string>V</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Search the web in bli.</string>
+	<key>Extension Identifier</key>
+	<string>com.snowzjx.popclip.extension.bli</string>
+	<key>Extension Image File</key>
+	<string>bli.png</string>
+	<key>Extension Name</key>
+	<string>bli Search</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
